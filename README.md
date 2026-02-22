@@ -1,6 +1,7 @@
 # FinGraphix — Money Muling Detection Engine
 
-![FinGraphix Logo](frontend/public/fingraphix-logo.jpg)
+<img width="400" height="400" alt="ChatGPT Image Feb 19, 2026, 07_13_46 PM" src="https://github.com/user-attachments/assets/d159d3f7-b7fc-4eb7-a141-8cac25dda69b" />
+
 
 
 
