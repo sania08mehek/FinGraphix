@@ -1,6 +1,6 @@
 # FinGraphix — Money Muling Detection Engine
 
-(frontend/public/fingraphix-logo.jpg)
+![FinGraphix Logo](frontend/public/fingraphix-logo.jpg)
 
 
 
