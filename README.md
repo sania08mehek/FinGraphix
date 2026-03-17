@@ -1,6 +1,6 @@
 # FinGraphix — Money Muling Detection Engine
 
-![FinGraphix Logo](frontend/public/fingraphix-logo.jpg)
+(frontend/public/fingraphix-logo.jpg)
 
 
 
@@ -10,7 +10,6 @@
 
 A web-based **Financial Forensics Engine** that processes transaction data and exposes money muling networks through **graph analysis and interactive visualization**.
 
-🔗 **Live Demo**: _[https://fin-graphix-79n1-5rw82uddx-irfan-irs-projects.vercel.app/]_
 
 ---
 
